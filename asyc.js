@@ -53,7 +53,7 @@ birinchiPromise
       }, 5000);
     });
   })
-  
+//   
   .then((natija) => {
     setTimeout(() => {
       console.log("Oxirgi natija " + natija); // Oxirgi natija Birinchisidan kelgan natija: Uddaladim
